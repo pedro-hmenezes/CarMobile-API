@@ -23,14 +23,3 @@ Este projeto foi desenvolvido como uma atividade prática para consolidar conhec
 * [TypeScript](https://www.typescriptlang.org/) - Tipagem estática para maior segurança no código.
 * [OpenF1 API](https://openf1.org/) - Fonte de dados gratuita.
 * [FlagCDN](https://flagcdn.com/) - API auxiliar para bandeiras dos países.
-
----
-
-## Como Rodar o Projeto
-
-Pré-requisitos: Você precisa ter o **Node.js** instalado na sua máquina e o aplicativo **Expo Go** no seu celular (ou um emulador configurado).
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-   cd NOME-DO-REPO
