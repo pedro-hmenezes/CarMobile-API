@@ -22,4 +22,3 @@ Este projeto foi desenvolvido como uma atividade prática para consolidar conhec
 * [Expo](https://expo.dev/) - Plataforma para desenvolvimento e build.
 * [TypeScript](https://www.typescriptlang.org/) - Tipagem estática para maior segurança no código.
 * [OpenF1 API](https://openf1.org/) - Fonte de dados gratuita.
-* [FlagCDN](https://flagcdn.com/) - API auxiliar para bandeiras dos países.
